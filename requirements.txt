@@ -2,3 +2,4 @@ flask
 oandapyV20
 requests
 python-dotenv
+gunicorn
